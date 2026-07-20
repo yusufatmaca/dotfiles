@@ -1,0 +1,12 @@
+theme = Gruvbox Dark Hard
+font-family = JetBrainsMono Nerd Font
+font-size = 14
+
+window-padding-x = 8
+window-padding-y = 8
+
+background-opacity = 0.95
+
+gtk-titlebar = false
+
+copy-on-select = true
