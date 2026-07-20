@@ -1,0 +1,17 @@
+# Always show line numbers
+set linenumbers
+
+# Enable mouse support for cursor placement and clicking
+set mouse
+
+# Do not wrap lines automatically
+set nowrap
+
+# Set tab size to 4 spaces
+set tabsize 4
+
+set softwrap
+
+
+# Enable color syntax highlighting
+include "/usr/share/nano/*.nanorc"
